@@ -7,7 +7,7 @@
 //
 
 #import "RCTWeChat.h"
-#import "RCTBridge.h"
+#import "React/RCTBridge.h"
 #import "RCTEventDispatcher.h"
 #import "WXApi.h"
 #import "WXApiObject.h"
